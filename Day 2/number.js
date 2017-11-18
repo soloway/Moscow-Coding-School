@@ -3,3 +3,4 @@ function minusNumber(num){
 	return('-'+num)
 }
 minusNumber(num)
+// приветик )
